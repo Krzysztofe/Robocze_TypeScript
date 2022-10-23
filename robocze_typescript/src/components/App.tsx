@@ -12,7 +12,7 @@ import Logout from "./login/logout";
 function App() {
   return (
 
-        <BrowserRouter basename= 'Robocze_TypeScript'>
+        <BrowserRouter basename= '/Robocze_TypeScript'>
           <Routes>
             <Route path='/' element={<Home/>}/>
               <Route path='/logowanie' element={<Login/>}/>
