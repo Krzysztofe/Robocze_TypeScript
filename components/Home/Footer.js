@@ -12,7 +12,8 @@ const Footer = () => {
             react_1.default.createElement("a", { href: 'https://www.facebook.com/', className: 'contact__logo' },
                 react_1.default.createElement("img", { src: Facebook, alt: 'Facebook_logo' })),
             react_1.default.createElement("a", { href: 'https://www.instagram.com/', className: 'contact__logo' },
-                react_1.default.createElement("img", { src: Instagram, alt: 'Instagram_logo' })))));
+                react_1.default.createElement("img", { src: Instagram, alt: 'Instagram_logo' })),
+            "pppppp")));
 };
 exports.default = Footer;
 //# sourceMappingURL=Footer.js.map
