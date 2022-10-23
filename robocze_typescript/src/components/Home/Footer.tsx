@@ -14,6 +14,8 @@ const Footer: FC = ():JSX.Element => {
                 <a href='https://www.instagram.com/' className='contact__logo'>
                     <img src={Instagram}  alt='Instagram_logo'/>
                 </a>
+
+                pppppp
             </div>
         </footer>
 
