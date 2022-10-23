@@ -58,6 +58,22 @@ const Header = () => {
                     {/*        </Link>*/}
                     {/*    </div>*/}
                     {/*}*/}
+
+                    <div className='header__btns' id='simpleSteps'>
+                        <Link to='logowanie' className='header__link'>
+                            <button className="btnLarge header__btn">
+                                oddaj <br/> rzeczy
+                            </button>
+                        </Link>
+
+                        <Link to='logowanie' className='header__link'>
+                            <button className="btnLarge header__btn">
+                                zorganizuj <br/> zbiórkę
+                            </button>
+                        </Link>
+                    </div>
+
+
                 </aside>
             </header>
         </>
