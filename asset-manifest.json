@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Robocze_TypeScript/static/js/main.f483da4f.js",
+    "main.js": "/Robocze_TypeScript/static/js/main.2d223a6c.js",
     "static/media/Hero Image.png": "/Robocze_TypeScript/static/media/Hero Image.1bee54676ebf0446f5fb.png",
     "index.html": "/Robocze_TypeScript/index.html",
-    "main.f483da4f.js.map": "/Robocze_TypeScript/static/js/main.f483da4f.js.map"
+    "main.2d223a6c.js.map": "/Robocze_TypeScript/static/js/main.2d223a6c.js.map"
   },
   "entrypoints": [
-    "static/js/main.f483da4f.js"
+    "static/js/main.2d223a6c.js"
   ]
 }
